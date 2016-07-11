@@ -12,7 +12,7 @@ or
 
     python txt2CANTVMAC.py *.txt
 
-For example, there is a *.txt file whose name is **U65\_MAC\_address.txt**. Its content as follow,
+For example, there is a \*.txt file whose name is **U65\_MAC\_address.txt**. Its content as follow,
 
 	A8:82:7F:00:59:CE
 	A8:82:7F:00:59:CF
